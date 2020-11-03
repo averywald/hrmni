@@ -1,0 +1,37 @@
+{
+  "name": "hrmni",
+  "version": "0.0.1",
+  "description": "a spotify social extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averywald/hrmni.git"
+  },
+  "keywords": [
+    "music",
+    "social",
+    "connect",
+    "spotify",
+    "song",
+    "dj",
+    "api",
+    "extension"
+  ],
+  "author": "ave5auce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averywald/hrmni/issues"
+  },
+  "homepage": "https://github.com/averywald/hrmni#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6"
+  }
+}
