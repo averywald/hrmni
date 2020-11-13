@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "hrmni-bb3a9": {
+      "hosting": {
+        "hrmni": [
+          "hrmni-bb3a9"
+        ]
+      }
+    }
+  }
+}
